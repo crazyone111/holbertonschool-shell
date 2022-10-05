@@ -1,0 +1,2 @@
+#!/bin/bas
+head -10 /etc/passwd
